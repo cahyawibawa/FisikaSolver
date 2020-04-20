@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\obj\Debug\netcoreapp3.1\RumusFisika3122.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\obj\Debug\netcoreapp3.1\RumusFisika3122.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\obj\Debug\netcoreapp3.1\RumusFisika3122.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\bin\Debug\netcoreapp3.1\RumusFisika3122.exe
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\bin\Debug\netcoreapp3.1\RumusFisika3122.deps.json
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\bin\Debug\netcoreapp3.1\RumusFisika3122.runtimeconfig.json
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\bin\Debug\netcoreapp3.1\RumusFisika3122.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\bin\Debug\netcoreapp3.1\RumusFisika3122.dll
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\bin\Debug\netcoreapp3.1\RumusFisika3122.pdb
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\obj\Debug\netcoreapp3.1\RumusFisika3122.dll
+C:\Users\ASUS\Documents\Tugas\RumusFisika3122\RumusFisika3122\obj\Debug\netcoreapp3.1\RumusFisika3122.pdb
